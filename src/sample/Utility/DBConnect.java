@@ -9,10 +9,10 @@ import java.util.ArrayList;
 public class DBConnect
 {
     static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
-    static final String DB_URL = "jdbc:mysql://db4free.net/advjavarmi?useSSL=false";
+    static final String DB_URL = "";
 
-    static final String USER = "swinjava";
-    static final String PASS = "T8hs8QCP9pqcSPQ";
+    static final String USER = "";
+    static final String PASS = "";
 
     public void dbconnectCheck() {
         try {
